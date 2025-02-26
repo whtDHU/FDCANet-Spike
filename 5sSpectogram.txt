@@ -1,0 +1,3 @@
+pathDataSet: /d/CHB-MIT/chb-mit
+FirstPartPathOutput: /e/wht_project/eeg_data/30s_spectograms
+FirstPartPathOutput1: /e/wht_project/eeg_data/segment
